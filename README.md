@@ -68,4 +68,5 @@ For this workshop you need the following:
 ## Cheat Sheet
 Find common terminology for reference [here](./CheatSheet.md)
 -modificacion prueba de push
+- para que se salte el push inlcuimos el skip 
 
